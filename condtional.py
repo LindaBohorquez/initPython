@@ -1,5 +1,5 @@
 # esto es comentqario
-#condicionales
+#condicionales .
 #if else
 #bool true or false
 edad1 = 45
