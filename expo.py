@@ -66,7 +66,7 @@ if(type(num) != bool):
 # operaciones: suma, resta, multiplicacion, division, potencias.
 # si se introduce una operacion diferete o algo diferente mostrar error
 
-def calculator():
+"""def calculator():
     operation = input("¿Que operación desea realizar?. las operaciones son:\n(+)\n(-)\n(*)\n(/)\n")
     
     num1 = (input("numero 1: "))
@@ -107,5 +107,32 @@ def toDoOperation(operation, num1, num2):
     else:
         print("error.las operaciones son:\n-suma\n-resta\n-multiplicacion\n-division\n-potencia\n")
 
-calculator()
+calculator()"""
 
+numeros = [1, 2, 3, 4, 5,2, 90] 
+"""print(numeros[2])
+print(numeros)
+
+# recorro la lista numeros con el for
+for x in numeros:
+    print(x*1000)"""
+
+palabra = "maria hola"
+count = ''
+
+for x in numeros:
+        count = count + '*'
+        print(count)
+
+"""for letra in palabra:
+    if(letra == "a"):
+        count = count + 1"""
+        
+#print(count)
+
+    
+sum = 0 
+list = [1, 4, 2, 3, 7]
+for ele in range(0, len(list)):
+    sum = sum + list[ele]
+print("sum", sum)
