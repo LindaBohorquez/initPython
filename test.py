@@ -35,3 +35,24 @@ x =+ 1
 fun()
 print(x)"""
 
+"""mensaje7 = "HOLA MUNDO"
+mensaje7a = mensaje7.lower()
+print(mensaje7a)
+
+mensaje8 = "HOLA MUNDO"
+mensaje8a = mensaje7.replace("L", "pizza")
+print(mensaje8a)
+"""
+"""x = {2, 3, 4}
+x.add(5)
+print(x)
+"""
+
+"""complejo = 1+2j
+print(complejo.real)
+print(complejo.imag)
+
+conjunto = set([1, 3, 1, 4])
+print(conjunto)"""
+
+
